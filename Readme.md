@@ -9,8 +9,6 @@
 
 <h1 align="center">Hey, Its me Poojan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="400"  /></p>
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
@@ -18,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Web Development, Mahcine Learning and Data Science.
 - ⚡ In my free time I read tech articles, read novels and play video games.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojan-pradhan-8709b0217)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-poojan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojan-pradhan-8709b0217)
 
 ---
 
@@ -44,8 +42,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poojan670&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poojan670&theme=white&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan670&layout=compact&theme=vision-friendly-dark)](https://github.com/Poojan670/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan670&layout=compact&theme=vision-friendly-white)](https://github.com/Poojan670/github-readme-stats)
 
 ---
