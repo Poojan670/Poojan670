@@ -1,20 +1,23 @@
 
 <p align="center"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/poojan-pradhan-8709b0217"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/p0ojan/"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"></a>
-<a href="https://www.facebook.com/Hunt3rr/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Poojan670&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey, Its me Poojan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center">
+<!-- <a href="https://www.rajanpoudel.com.np/"></a> -->
+<a href="https://www.linkedin.com/in/poojan-pradhan-8709b0217"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Poojan%20Pradhan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/p0ojan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-p0ojan-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/po0_jan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-po0_jan-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:info@poojanpradhan.com.np"><img alt="Email" src="https://img.shields.io/badge/Email-info@poojanpradhan.com.np-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Web Development, Mahcine Learning and Data Science.
+- 🌱 Exploring Web Development & Data Science.
 - ⚡ In my free time I read tech articles, read novels and play video games.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-poojan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojan-pradhan-8709b0217)
 
@@ -42,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poojan670&theme=white&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Poojan670&layout=compact&theme=vision-friendly-white)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojan670&layout=compact&theme=vision-friendly-white)](https://github.com/Poojan670/github-readme-stats)
 
