@@ -2,9 +2,8 @@
 <p align="center"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/poojan-pradhan-8709b0217"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.instagram.com/p0ojan/"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"></a>
+<a href="https://www.facebook.com/Hunt3rr/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
