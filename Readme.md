@@ -2,15 +2,15 @@
 <p align="center"><img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="100"/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Poojan670&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hey, Its me Poojan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
+<h1 align="center">Hey, Its me Poojan ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <p align="center">
-<!-- <a href="https://www.rajanpoudel.com.np/"></a> -->
+<!-- <a href="https://www.poojanpradhan.com.np/"></a> -->
 <a href="https://www.linkedin.com/in/poojan-pradhan-8709b0217"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Poojan%20Pradhan-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/p0ojan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-p0ojan-blue?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/po0_jan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-po0_jan-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:info@poojanpradhan.com.np"><img alt="Email" src="https://img.shields.io/badge/Email-info@poojanpradhan.com.np-blue?style=flat-square&logo=gmail"></a>
 </p>
+</h1>
 
 ### :woman_technologist: &nbsp;About Me :
 
